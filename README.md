@@ -1,6 +1,7 @@
 # Airline Customers Clustering and Flight Analysis
-Find customer segments to better market to customer and increase the airline's loyalty membership
-! (<img width="683" alt="image" src="https://user-images.githubusercontent.com/125685678/221343001-e8674dfa-533a-4e3d-95fd-34204c9b482d.png">)
+
+! <img width="683" alt="image" src="https://user-images.githubusercontent.com/125685678/221343001-e8674dfa-533a-4e3d-95fd-34204c9b482d.png">
+*Exploratory analysis on flight destinations*
 # Business Goal  
 Help an airline find meaningful customer segments to better target their current customers while marketing and to increase their loyalty membership program. 
 
