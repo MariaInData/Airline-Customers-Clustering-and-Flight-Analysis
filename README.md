@@ -1,9 +1,9 @@
 # Airline-Customers-Clustering-to-Personalize-Marketing-
 Find customer segments to better market to customer and increase the airline's loyalty membership
-# Purpose of this Project  
+# Business Goal  
 Help an airline find meaningful customer segments to better target their current customers while marketing and to increase their loyalty membership program. 
 
-#Overall Process  
+# Overall Process  
 1. First, I clustered the customers into meaningful groups based on similar flying traits.  
 2. Next, I looked at how long it took to join the airline's membership program (Ufly).
 3. Finally, combining the clustering solution with the Ufly membership analysis, I was able to recommend targeting 
