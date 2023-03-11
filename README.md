@@ -44,3 +44,5 @@ flyers. Having the airline incentivize by earning more points on the airline's w
 cluster benefit by earning more points from SCA Website booking than outside bookings. For the airline, targeting these customers means not 
 sharing revenue with an outside booking organization, increased customer loyalty as the Ufly members will accumulate points to be redeemed on 
 future flight tickets, and more efficiently targeting marketing to 42,000 customers instead of the entire cluster of 415,000 customers. 
+
+3. Visualize the results in Tableau
